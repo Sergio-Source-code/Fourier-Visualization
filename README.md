@@ -8,19 +8,19 @@ A point can be added with the space bar, and deleted with the backspace. Once a 
 
 ## Commands
 
-spacebar - places point \s\s
-backspace - removes point \s\s
-vertical arrows - changes length of red line \s\s
-horizontal arrows - changes angle of red line \s\s
- \s\s
-h   - makes red line point to the right (horizontal) \s\s
-v   - makes red line point up (vertical) \s\s
- \s\s
-f   - flips direction of red line \s\s
-n/m - lowers/raises the sensitivity of arrow commands \s\s
-s   - returns to standard sensitivity \s\s
-p   - prints current list of data to the console \s\s
-c   - toggles circle visibility \s\s
+spacebar - places point  
+backspace - removes point  
+vertical arrows - changes length of red line  
+horizontal arrows - changes angle of red line  
+  
+h   - makes red line point to the right (horizontal)  
+v   - makes red line point up (vertical)  
+  
+f   - flips direction of red line  
+n/m - lowers/raises the sensitivity of arrow commands  
+s   - returns to standard sensitivity  
+p   - prints current list of data to the console  
+c   - toggles circle visibility  
 
 ## Examples
 
